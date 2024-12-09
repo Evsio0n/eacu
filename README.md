@@ -1,2 +1,2 @@
-# eacu
+# EACU
 Enhanced Automated Computer Unit
