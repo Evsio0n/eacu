@@ -1,7 +1,7 @@
 {
     "name": "Enhanced Automated Compute Unit",
     "symbol": "EACU",
-    "description": "The minimum unit of computation in computer.",
+    "description": "The minimum unit of compute consumption on the Enhanced Automated Compute Network.",
     "image": "https://raw.githubusercontent.com/evsio0n/eacu/main/image.png",
     "attributes": [],
     "properties": {
