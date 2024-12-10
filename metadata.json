@@ -1,5 +1,15 @@
 {
-    "name": "Enhanced Automated Computer Unit",
+    "name": "Enhanced Automated Compute Unit",
     "symbol": "EACU",
-    "image": "https://raw.githubusercontent.com/evsio0n/eacu/main/assets/image.png"
-  }
+    "description": "The minimum unit of computation in computer.",
+    "image": "https://raw.githubusercontent.com/evsio0n/eacu/main/image.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/evsio0n/eacu/main/image.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
